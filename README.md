@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello, I'm Kevin!
+I build a variety of projects, currently focusing on game and mod development.
 
 <!--
 **liu-kevin1/liu-kevin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
